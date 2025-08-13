@@ -1,5 +1,12 @@
 #aula08_pt02
+#>>Crie uma programa python que use a função main() para calcular e imprimir a soma de dois números fornecidos pelo usuário<<
+"""""
+def saudacao():
+    print("\n\n\tOlá, mundo!")
 
+if __name__== "__main__":
+    saudacao()
+ """
 def main():
 
     numero1 = float(input("Digite o primeiro número: "))
@@ -7,7 +14,7 @@ def main():
     
     soma = numero1 + numero2
     
-    print(f"A soma de {numero1} e {numero2} é igual a >>{soma}<<")
+    print(f"A soma de {numero1} e {numero2} é igual a !!>>{soma}<<!!")
 
 if __name__ == "__main__":
     main()
