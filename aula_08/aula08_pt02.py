@@ -18,7 +18,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-"""
+
 
 def soma(num1, num2):
    return num1 + num2
@@ -33,4 +33,7 @@ def main():
    print(f"Subtração: >>{resultado_subtracao}<<")
 
 if __name__ == "__main__":
+
    main()
+"""
+   
