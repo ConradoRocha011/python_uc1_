@@ -22,4 +22,5 @@ for i in range(4):
 
 #print(f"{matriz_2[0]}")
 for linha in matriz_2:
-    print(f"{linha}")        
+    print(f"{linha}")
+        
